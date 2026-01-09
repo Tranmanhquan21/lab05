@@ -1,0 +1,16 @@
+[
+  {
+    "student_code": "SV001",
+    "course_code": "C001",
+    "midterm": 8,
+    "final": 9,
+    "total": 8.5
+  },
+  {
+    "student_code": "SV002",
+    "course_code": "C002",
+    "midterm": 7,
+    "final": 6,
+    "total": 6.5
+  }
+]

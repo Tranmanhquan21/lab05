@@ -1,0 +1,18 @@
+[
+  {
+    "course_code": "C001",
+    "course_name": "Programming 101"
+  },
+  {
+    "course_code": "C002",
+    "course_name": "Database Systems"
+  },
+  {
+    "course_code": "C003",
+    "course_name": "Web Development"
+  },
+  {
+    "course_code": "C004",
+    "course_name": "Operating Systems"
+  }
+]

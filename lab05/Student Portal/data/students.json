@@ -1,0 +1,30 @@
+[
+    {
+        "student_code": "SV001",
+        "full_name": "Nguyen Van A",
+        "class_name": "DCCNTT13",
+        "email": "a@example.com",
+        "password_hash": "$2y$10$urcG\/KTOmzmVwQ6NQsmMLO.3snOTCOucYJ9fBxaK3hL5ttqh5NARG"
+    },
+    {
+        "student_code": "SV002",
+        "full_name": "Nguyen Van B",
+        "class_name": "DCCNTT13",
+        "email": "b@example.com",
+        "password_hash": "$2y$10$PTkKKIA5qS90o.kSU454veqLZo8zaMJcehI0Rw9e3FLfQltZOCEsW"
+    },
+    {
+        "student_code": "SV003",
+        "full_name": "Nguyen Van C",
+        "class_name": "DCCNTT13",
+        "email": "c@example.com",
+        "password_hash": "$2y$10$sckS6FrrL0QV5QkvT5T4TO626mybDczhL\/PLmAXYP3NsLcxNqSwD."
+    },
+    {
+        "student_code": "SV004",
+        "full_name": "Nguyen Van D",
+        "class_name": "DCCNTT13",
+        "email": "d@example.com",
+        "password_hash": "$2y$10$n45B4joY5N1U.EtUqezggeOH\/nmiL6G0zhy9YAewUbIJlDsbIqWzy"
+    }
+]
